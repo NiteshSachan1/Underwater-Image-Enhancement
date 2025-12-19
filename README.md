@@ -3,12 +3,11 @@ This is a machine learning based project which aims to enhance the underwater / 
 This repository contains code and resources for enhancing the quality of underwater images. Underwater images often suffer from issues such as color distortion, low contrast, and blurriness due to the absorption and scattering of light in water. This project aims to address these challenges and improve the visual quality of underwater images.
 
 ## Table of Contents
-[
-* [<a name="Introduction"></a>Introduction
+* <a name="Introduction"></a>Introduction
 * Features
 * Installation
 * Usage
-* Contributing]
+* Contributing
 
 ## Introduction
 Underwater Image Enhancement is crucial for various applications such as marine biology, underwater robotics, and underwater photography. This project implements several techniques to enhance underwater images, making them clearer and more visually appealing.
@@ -25,8 +24,8 @@ Python 3.6 or higher
 pip (Python package installer)
 ### Steps
 Clone the repository:
-https://github.com/Abhish-akp/UnderWater-Image-Enhancement-.git
-cd underwater-image-enhancement
+https://github.com/NiteshSachan1/Underwater-Image-Enhancement.git
+cd Underwater-Image-Enhancement
 ## Usage
 ### Command Line Interface
 You can use the command line interface to enhance underwater images. Run the following command to see the available options:
@@ -43,14 +42,6 @@ output_image = "path/to/save/enhanced_image.jpg"
 
 enhance_image(input_image, output_image)
 
-https://github.com/Abhish-akp/UnderWater-Image-Enhancement-.git
-cd underwater-image-enhancement
 
-from enhancement import enhance_image
-
-input_image = "path/to/your/image.jpg"
-output_image = "path/to/save/enhanced_image.jpg"
-
-enhance_image(input_image, output_image)
 
 
